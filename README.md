@@ -33,14 +33,14 @@ Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍.
   <!--<img src="https://img.shields.io/badge/Typescrips-%23323330.svg?style=for-the-badge&logo=Typescript&logoColor=3178C6"> -->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
   <br>
-  
-  <!--<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <br>-->
-  
+ 
   <img src="https://img.shields.io/badge/ruby-D3D3D3?style=for-the-badge&logo=ruby&logoColor=CC342D">
   <img src="https://img.shields.io/badge/rubyOnRails-D30001?style=for-the-badge&logo=rubyOnRails&logoColor=white">
   <br>
+  
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <!--<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <br>-->
   
   <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=for-the-badge&logo=postgreSQL&logoColor=white"> 
   
