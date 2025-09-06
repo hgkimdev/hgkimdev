@@ -56,14 +56,14 @@ Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍.
 
 ## 🌱 Currently Working On
 
-- 📚 Learning JS/React + RubyOnRails + PostgreSQL + Fullstack architecture  
+- 📚 Learning JS/React, Ruby/Rails, PostgreSQL, Fullstack architecture  
 <!-- 🧭 Planning services targeting the global market
 - 🛠 SaaS idea → MVP development → Launching live services  -->
 
 ---
 
 ## 📫 Feel free to contact me!
-[![ProtonMail](https://img.shields.io/badge/Email-hgkim7.dev%40proton.me-purple?logo=protonmail)](mailto:hgkim7.dev@proton.me)  
+[![ProtonMail](https://img.shields.io/badge/Email-hgkimdev%40proton.me-purple?logo=protonmail)](mailto:hgkimdev@proton.me)  
 
 ---
 
