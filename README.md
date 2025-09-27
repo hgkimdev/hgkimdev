@@ -45,18 +45,13 @@ Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍.
   <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=for-the-badge&logo=postgreSQL&logoColor=white"> 
   
 </div>
-<!--![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript)
-![React](https://img.shields.io/badge/Reate-Framework-61DAFB?logo=react)
-![Ruby on Rails](https://img.shields.io/badge/RubyOnRails-Backend-D30001?logo=RubyOnRails)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?logo=postgresql)
-![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)-->
 
 ---
 
 ## 🌱 Currently Working On
 
-- 📚 Learning JS/React, Ruby/Rails, PostgreSQL, Fullstack architecture  
+- 📚 Learning Ruby/Rails, PostgreSQL, Fullstack architecture
+- ⚛️ Working on a toy project using React and Codex
 <!-- 🧭 Planning services targeting the global market
 - 🛠 SaaS idea → MVP development → Launching live services  -->
 
