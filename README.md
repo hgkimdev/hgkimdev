@@ -38,11 +38,11 @@ Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍.
   <img src="https://img.shields.io/badge/rubyOnRails-D30001?style=for-the-badge&logo=rubyOnRails&logoColor=white">
   <br>
   
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <!--<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <!--<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <br>-->
   
-  <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=for-the-badge&logo=postgreSQL&logoColor=white"> 
+  <!--<img src="https://img.shields.io/badge/postgreSQL-4169E1?style=for-the-badge&logo=postgreSQL&logoColor=white">-->
   
 </div>
 
@@ -51,7 +51,6 @@ Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍.
 ## 🌱 Currently Working On
 
 - 📚 Learning Ruby/Rails, PostgreSQL, Fullstack architecture
-- ⚛️ Working on a toy project using React and Codex
 <!-- 🧭 Planning services targeting the global market
 - 🛠 SaaS idea → MVP development → Launching live services  -->
 
