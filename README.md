@@ -30,7 +30,8 @@ Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍.
   
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
   <!--<img src="https://img.shields.io/badge/Typescrips-%23323330.svg?style=for-the-badge&logo=Typescript&logoColor=3178C6"> -->
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
+  <!-- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">  -->
+  <img src="https://img.shields.io/badge/svelte-%2320232a.svg?style=for-the-badge&logo=svelte&logoColor=%FF3E00"> 
   <br>
  
   <img src="https://img.shields.io/badge/ruby-D3D3D3?style=for-the-badge&logo=ruby&logoColor=CC342D">
