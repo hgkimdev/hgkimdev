@@ -24,11 +24,11 @@ Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍.
 ## 🛠 Main Tech Stack  
 <div align=left> 
   
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Tailwind css-38B2AC?style=for-the-badge&logo=Tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26"> 
+  <img src="https://img.shields.io/badge/Tailwind css-%2320232a.svg?style=for-the-badge&logo=Tailwindcss&logoColor=00bcff">
   <br>
   
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
+  <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
   <!--<img src="https://img.shields.io/badge/Typescrips-%23323330.svg?style=for-the-badge&logo=Typescript&logoColor=3178C6"> -->
   <!-- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">  -->
   <img src="https://img.shields.io/badge/svelte-%2320232a.svg?style=for-the-badge&logo=svelte&logoColor=%FF3E00"> 
