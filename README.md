@@ -6,11 +6,9 @@
 ## 🧑‍💻 About Me
 
 👋 Hi, I'm Hyeong Geun.  
-I'm a solo indie hacker from Korea.  
 I build small, useful SaaS products that solve everyday pains. <br>
 My goal is to create tools that make life simpler and more enjoyable! <br>
-
-Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍.  
+Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍
  
 
 <!---
@@ -22,7 +20,7 @@ Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍.
 --->
 
 ## 🛠 Main Tech Stack  
-<div align=left> 
+<div> 
   
   <img src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26"> 
   <img src="https://img.shields.io/badge/Tailwind css-%2320232a.svg?style=for-the-badge&logo=Tailwindcss&logoColor=00bcff">
@@ -35,23 +33,25 @@ Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍.
   <br>
  
   <img src="https://img.shields.io/badge/ruby-D3D3D3?style=for-the-badge&logo=ruby&logoColor=CC342D">
-  <img src="https://img.shields.io/badge/rubyOnRails-D30001?style=for-the-badge&logo=rubyOnRails&logoColor=white">
+  <img src="https://img.shields.io/badge/Ruby On Rails-D30001?style=for-the-badge&logo=rubyOnRails&logoColor=white">
   <br>
   
   <!--<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <br>-->
   
-  <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=for-the-badge&logo=postgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/postgreSQL-2c5186?style=for-the-badge&logo=postgreSQL&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
   
 </div>
+
 
 ---
 
 ## 🌱 Currently Working On
 
 - 📚 Learning Ruby/Rails, Fullstack architecture
+- 🛠 SaaS idea → building MVP
 <!-- 🧭 Planning services targeting the global market
 - 🛠 SaaS idea → MVP development → Launching live services  -->
 
@@ -62,10 +62,9 @@ Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍.
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hgkim7&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-  <br>
-</p>
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hgkim)  
+<img src="https://komarev.com/ghpvc/?username=hgkim7&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+
 
 <!--
 **hgkimdev/hgkimdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
