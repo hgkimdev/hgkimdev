@@ -21,41 +21,35 @@ Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍
 
 ## 🛠 Main Tech Stack  
 <div> 
-  
-  <img src="https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=E34F26"> 
-  <img src="https://img.shields.io/badge/Tailwind css-%2320232a.svg?style=for-the-badge&logo=Tailwindcss&logoColor=00bcff">
-  <br>
-  
-  <img src="https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
-  <!--<img src="https://img.shields.io/badge/Typescrips-%23323330.svg?style=for-the-badge&logo=Typescript&logoColor=3178C6"> -->
-  <!-- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">  -->
-  <img src="https://img.shields.io/badge/svelte-%2320232a.svg?style=for-the-badge&logo=svelte&logoColor=%FF3E00"> 
-  <br>
  
-  <img src="https://img.shields.io/badge/ruby-D3D3D3?style=for-the-badge&logo=ruby&logoColor=CC342D">
-  <img src="https://img.shields.io/badge/Ruby On Rails-D30001?style=for-the-badge&logo=rubyOnRails&logoColor=white">
-  <br>
-  
-  <!--<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <br>-->
-  
-  <img src="https://img.shields.io/badge/postgreSQL-2c5186?style=for-the-badge&logo=postgreSQL&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
-  
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,ruby,rails,postgres,sqlite)](https://skillicons.dev)
+ 
 </div>
+
+---
+
+## 📽️ Featured Production
+### 📄 [Claudocs] - PDF document management service
+Although the live service is currently archived due to maintenance costs, 
+<br> you can see the production demo in the video below. 
+<br> It was a great journey of building a service from scratch to deployment.
+- **Tech:** Ruby on Rails, SQLite
+- **Key Implementation:** Implemented a real time virus scanning system for PDF uploads,
+<br> utilizing WebSockets to provide instant security feedback without blocking the UI.
+
+[![Watch the video](https://img.youtube.com/vi/JXLXOtOum9Q/0.jpg)](https://www.youtube.com/watch?v=JXLXOtOum9Q)
 
 
 ---
 
 ## 🌱 Currently Working On
 
-- 📚 Learning Ruby/Rails, Fullstack architecture
-- 🛠 SaaS idea → building MVP
+- 📚 Deep diving into **React & React Native** for mobile app expansion.
+- 🧭 Planning new SaaS MVPs targeting the global market.
+<!--- 🛠 SaaS idea → building MVP-->
 <!-- 🧭 Planning services targeting the global market
 - 🛠 SaaS idea → MVP development → Launching live services  -->
 
----
 
 ## 📫 Feel free to contact me!
 [![ProtonMail](https://img.shields.io/badge/Email-hgkimdev%40proton.me-purple?logo=protonmail)](mailto:hgkimdev@proton.me)  
