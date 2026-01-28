@@ -22,7 +22,7 @@ Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍
 ## 🛠 Main Tech Stack  
 <div> 
  
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,ruby,rails,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,python,ruby,rails,postgres,sqlite)](https://skillicons.dev)
  
 </div>
 
