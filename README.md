@@ -6,8 +6,8 @@
 ## 🧑‍💻 About Me
 
 👋 Hi, I'm Hyeong Geun.  
-Indie hacker building web-first SaaS products — from idea to launch, solo.<br>
-I ship fast, validate in the market, and double down on what works.
+I'm a solo developer who takes ideas from zero to launch — design, code, and ship, all on my own.<br>
+I build web-first, get it in front of real users early, and keep what works.
 
 ---
 
@@ -19,14 +19,14 @@ I ship fast, validate in the market, and double down on what works.
 
 **Also used**
 
-![Ruby](https://img.shields.io/badge/Ruby-e8e8e8?logo=ruby&logoColor=CC342D)
-![Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white)
+<img src="https://img.shields.io/badge/Ruby-e8e8e8?style=for-the-badge&logo=ruby&logoColor=CC342D">
+<img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white">
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgkimdev&show_icons=true&hide_border=true)](https://github.com/hgkimdev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgkimdev&show_icons=true&theme=default)](https://github.com/hgkimdev)
 
 ---
 
@@ -55,5 +55,4 @@ Shipped solo from zero to production — multi-tenant workspaces, e-signature, a
 
 ---
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hgkim)  
-<img src="https://komarev.com/ghpvc/?username=hgkim7&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hgkim) <img src="https://komarev.com/ghpvc/?username=hgkim7&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
