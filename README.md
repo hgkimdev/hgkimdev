@@ -25,7 +25,10 @@ I build web-first, get it in front of real users early, and keep what works.
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://gh-readme-stats.vercel.app/api?username=hgkimdev&show_icons=true&hide_border=true&theme=default)](https://github.com/hgkimdev)
+<a href="https://github.com/hgkimdev">
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=hgkimdev&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=hgkimdev&layout=compact&hide_border=true&theme=tokyonight" />
+</a>
 
 ---
 
