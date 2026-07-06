@@ -9,26 +9,36 @@
 Indie hacker building web-first SaaS products — from idea to launch, solo.<br>
 I ship fast, validate in the market, and double down on what works.
 
-## 🛠 Main Tech Stack  
-<div> 
- 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,ruby,python,postgres)](https://skillicons.dev)
- 
-</div>
+---
+
+## 🛠 Tech Stack
+
+**Current**
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,python,postgres)](https://skillicons.dev)
+
+**Also used**
+
+![Ruby](https://img.shields.io/badge/Ruby-e8e8e8?logo=ruby&logoColor=CC342D)
+![Rails](https://img.shields.io/badge/Rails-CC0000?logo=rubyonrails&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgkimdev&show_icons=true&hide_border=true)](https://github.com/hgkimdev)
 
 ---
 
 ## 📽️ Featured Production
-### 📄 [Claudocs] - PDF document management service
-Although the live service is currently archived due to maintenance costs, 
-<br> you can see the production demo in the video below. 
-<br> It was a great journey of building a service from scratch to deployment.
-- **Tech:** Ruby on Rails, SQLite
-- **Key Implementation:** Implemented a real time virus scanning system for PDF uploads,
-<br> utilizing WebSockets to provide instant security feedback without blocking the UI.
+### 📄 [Claudocs] - PDF document management SaaS
+
+Shipped solo from zero to production — multi-tenant workspaces, e-signature, and real-time virus scanning on PDF uploads.
+
+- **Tech:** Ruby on Rails, Hotwire, SQLite
+- **Key Implementation:** Real-time virus scanning for PDF uploads via WebSockets, delivering instant security feedback without blocking the UI.
 
 [![Watch the video](https://img.youtube.com/vi/JXLXOtOum9Q/0.jpg)](https://www.youtube.com/watch?v=JXLXOtOum9Q)
-
 
 ---
 
@@ -37,8 +47,11 @@ Although the live service is currently archived due to maintenance costs,
 - 🌐 Building web-first SaaS with **Next.js** — validate market fit fast, then expand to mobile.
 - 🧭 Exploring next product ideas targeting the global market.
 
+---
+
 ## 📫 Feel free to contact me!
-[![ProtonMail](https://img.shields.io/badge/Email-hgkimdev%40proton.me-purple?logo=protonmail)](mailto:hgkimdev@proton.me)  
+
+[![ProtonMail](https://img.shields.io/badge/Email-hgkimdev%40proton.me-purple?logo=protonmail)](mailto:hgkimdev@proton.me)
 
 ---
 
