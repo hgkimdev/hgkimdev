@@ -19,7 +19,7 @@ I build web-first, get it in front of real users early, and keep what works.
 
 **Also used**
 
-<img src="https://img.shields.io/badge/Ruby-e8e8e8?style=for-the-badge&logo=ruby&logoColor=CC342D"> <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby-e8e8e8?style=for-the-badge&logo=ruby&logoColor=CC342D"> <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
 
 ---
 
