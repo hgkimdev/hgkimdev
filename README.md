@@ -40,7 +40,7 @@ Shipped solo from zero to production — multi-tenant workspaces, e-signature, a
 - **Tech:** Ruby on Rails, Hotwire, SQLite
 - **Key Implementation:** Real-time virus scanning for PDF uploads via WebSockets, delivering instant security feedback without blocking the UI.
 
-[![Watch Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-0d1117?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=JXLXOtOum9Q)
+[![Watch Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-0d1117?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=JXLXOtOum9Q) [![Source Code](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hgkimdev/Claudocs)
 
 ---
 
