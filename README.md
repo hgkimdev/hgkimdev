@@ -6,23 +6,13 @@
 ## 🧑‍💻 About Me
 
 👋 Hi, I'm Hyeong Geun.  
-I build small, useful SaaS products that solve everyday pains. <br>
-My goal is to create tools that make life simpler and more enjoyable! <br>
-Outside of coding, I enjoy learning new languages ✍️ and traveling 🌍
- 
-
-<!---
-
-## 💭 My Philosophy
-**EN**
-
-**KR**
---->
+Indie hacker building web-first SaaS products — from idea to launch, solo.<br>
+I ship fast, validate in the market, and double down on what works.
 
 ## 🛠 Main Tech Stack  
 <div> 
  
-[![My Skills](https://skillicons.dev/icons?i=js,react,python,ruby,rails,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,ruby,python,postgres)](https://skillicons.dev)
  
 </div>
 
@@ -44,33 +34,13 @@ Although the live service is currently archived due to maintenance costs,
 
 ## 🌱 Currently Working On
 
-- 📚 Deep diving into **React & React Native** for mobile app expansion.
-- 🧭 Planning new SaaS MVPs targeting the global market.
-<!--- 🛠 SaaS idea → building MVP-->
-<!-- 🧭 Planning services targeting the global market
-- 🛠 SaaS idea → MVP development → Launching live services  -->
-
+- 🌐 Building web-first SaaS with **Next.js** — validate market fit fast, then expand to mobile.
+- 🧭 Exploring next product ideas targeting the global market.
 
 ## 📫 Feel free to contact me!
 [![ProtonMail](https://img.shields.io/badge/Email-hgkimdev%40proton.me-purple?logo=protonmail)](mailto:hgkimdev@proton.me)  
 
 ---
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hgkim)  
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hgkim)  
 <img src="https://komarev.com/ghpvc/?username=hgkim7&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-
-
-<!--
-**hgkimdev/hgkimdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
