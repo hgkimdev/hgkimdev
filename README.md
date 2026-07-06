@@ -19,14 +19,13 @@ I build web-first, get it in front of real users early, and keep what works.
 
 **Also used**
 
-<img src="https://img.shields.io/badge/Ruby-e8e8e8?style=for-the-badge&logo=ruby&logoColor=CC342D">
-<img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white">
+<img src="https://img.shields.io/badge/Ruby-e8e8e8?style=for-the-badge&logo=ruby&logoColor=CC342D"> <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white">
 
 ---
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hgkimdev&show_icons=true&theme=default)](https://github.com/hgkimdev)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hgkimdev&hide_border=true)](https://github.com/hgkimdev)
 
 ---
 
