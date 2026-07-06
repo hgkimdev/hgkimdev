@@ -25,7 +25,7 @@ I build web-first, get it in front of real users early, and keep what works.
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hgkimdev&hide_border=true)](https://github.com/hgkimdev)
+[![GitHub Stats](https://gh-readme-stats.vercel.app/api?username=hgkimdev&show_icons=true&hide_border=true&theme=default)](https://github.com/hgkimdev)
 
 ---
 
