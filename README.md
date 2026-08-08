@@ -15,7 +15,12 @@ I build, ship, and iterate based on real world feedback.
 
 **Current**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,python,postgres)](https://skillicons.dev)
+[![JS](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![TS](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 
 **Also used**
 
