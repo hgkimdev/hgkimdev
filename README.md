@@ -32,6 +32,18 @@ I build, ship, and iterate based on real world feedback.
 
 ---
 
+## 📄 Featured Projects
+
+**[Langport](https://langport.vercel.app)** — city × language-pair directory for language exchange meetups, curating scattered Meetup/Instagram groups so travelers keep using the same platform across cities
+
+[![Visit Site](https://img.shields.io/badge/%E2%86%97%20Visit%20Site-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://langport.vercel.app)
+
+**[Claudocs](https://github.com/hgkimdev/Claudocs)** — PDF document management SaaS, shipped solo from zero to production (Rails, Hotwire, real-time virus scanning on upload)
+
+[![Watch Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-0d1117?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=JXLXOtOum9Q) [![Source Code](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hgkimdev/Claudocs)
+
+---
+
 ## 📊 GitHub Stats
 <img src="https://readme-stats-fast.vercel.app/api?username=hgkimdev&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://streak-stats.demolab.com/?user=hgkimdev&theme=tokyonight&hide_border=true" height="160" />
 
