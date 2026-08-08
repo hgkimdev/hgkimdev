@@ -21,6 +21,10 @@ I build web-first, get it in front of real users early, and keep what works.
 
 <img src="https://img.shields.io/badge/Ruby-e8e8e8?style=for-the-badge&logo=ruby&logoColor=CC342D"> <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
 
+**Tools**
+
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-1e1e1e?style=for-the-badge&logo=claude&logoColor=D97757)](https://claude.ai/code) [![Ghostty](https://img.shields.io/badge/Ghostty-1e1e1e?style=for-the-badge&logo=ghostty&logoColor=FFFFFF)](https://ghostty.org/) [![Neovim](https://img.shields.io/badge/Neovim-1e1e1e?style=for-the-badge&logo=neovim&logoColor=57A143)](https://neovim.io/) [![Obsidian](https://img.shields.io/badge/Obsidian-1e1e1e?style=for-the-badge&logo=obsidian&logoColor=7C3AED)](https://obsidian.md/) 
+
 ---
 
 ## 📊 GitHub Stats
