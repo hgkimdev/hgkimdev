@@ -19,20 +19,21 @@ I build, ship, and iterate based on real world feedback.
 
 **Also used**
 
-<img src="https://img.shields.io/badge/Ruby-e8e8e8?style=for-the-badge&logo=ruby&logoColor=CC342D"> <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white"> <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+[![Ruby](https://img.shields.io/badge/Ruby-e8e8e8?style=for-the-badge&logo=ruby&logoColor=CC342D)](https://www.ruby-lang.org/)
+[![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
 
 **Tools**
 
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-1e1e1e?style=for-the-badge&logo=claude&logoColor=D97757)](https://claude.ai/code) [![Ghostty](https://img.shields.io/badge/Ghostty-1e1e1e?style=for-the-badge&logo=ghostty&logoColor=FFFFFF)](https://ghostty.org/) [![Neovim](https://img.shields.io/badge/Neovim-1e1e1e?style=for-the-badge&logo=neovim&logoColor=57A143)](https://neovim.io/) [![Obsidian](https://img.shields.io/badge/Obsidian-1e1e1e?style=for-the-badge&logo=obsidian&logoColor=7C3AED)](https://obsidian.md/) 
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-1e1e1e?style=for-the-badge&logo=claude&logoColor=D97757)](https://claude.ai/code) 
+[![Ghostty](https://img.shields.io/badge/Ghostty-1e1e1e?style=for-the-badge&logo=ghostty&logoColor=FFFFFF)](https://ghostty.org/) 
+[![Neovim](https://img.shields.io/badge/Neovim-1e1e1e?style=for-the-badge&logo=neovim&logoColor=57A143)](https://neovim.io/) 
+[![Obsidian](https://img.shields.io/badge/Obsidian-1e1e1e?style=for-the-badge&logo=obsidian&logoColor=7C3AED)](https://obsidian.md/) 
 
 ---
 
 ## 📊 GitHub Stats
-
-<a href="https://github.com/hgkimdev">
-  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=hgkimdev&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=hgkimdev&layout=compact&hide_border=true&theme=tokyonight" />
-</a>
+<img src="https://readme-stats-fast.vercel.app/api?username=hgkimdev&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://streak-stats.demolab.com/?user=hgkimdev&theme=tokyonight&hide_border=true" height="160" />
 
 ---
 
