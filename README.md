@@ -35,14 +35,14 @@ I build, ship, and iterate based on real world feedback.
 ## ✨ Featured Projects
 
 ### Langport
-City × language-pair directory for language exchange meetups — curates scattered Meetup/Instagram groups so travelers keep using the same platform across cities.
+A directory of language exchange meetups, organized by city and language pair.
 
 `Next.js` `next-intl` `Tailwind` `Vercel`
 
 [**Visit Site →**](https://langport.vercel.app)
 
 ### Claudocs
-PDF document management SaaS, shipped solo from zero to production — multi-tenant workspaces with real-time virus scanning on upload.
+A PDF document management SaaS with multi-tenant workspaces and e-signature.
 
 `Rails` `Hotwire` `SQLite`
 
