@@ -36,18 +36,6 @@ I build, ship, and iterate based on real world feedback.
 
 ---
 
-## 📽️ Featured Production
-### 📄 [Claudocs] - PDF document management SaaS
-
-Shipped solo from zero to production — multi-tenant workspaces, e-signature, and real-time virus scanning on PDF uploads.
-
-- **Tech:** Ruby on Rails, Hotwire, SQLite
-- **Key Implementation:** Real-time virus scanning for PDF uploads via WebSockets, delivering instant security feedback without blocking the UI.
-
-[![Watch Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-0d1117?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=JXLXOtOum9Q) [![Source Code](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hgkimdev/Claudocs)
-
----
-
 ## 📫 Feel free to contact me!
 
 [![ProtonMail](https://img.shields.io/badge/Email-hgkimdev%40proton.me-purple?logo=protonmail)](mailto:hgkimdev@proton.me)
