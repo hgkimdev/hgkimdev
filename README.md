@@ -36,10 +36,4 @@ I build, ship, and iterate based on real world feedback.
 
 ---
 
-## 📫 Feel free to contact me!
-
-[![ProtonMail](https://img.shields.io/badge/Email-hgkimdev%40proton.me-purple?logo=protonmail)](mailto:hgkimdev@proton.me)
-
----
-
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hgkim) <img src="https://komarev.com/ghpvc/?username=hgkim7&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
