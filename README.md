@@ -1,4 +1,4 @@
-### 🚀 Indie Hacker & Fullstack Developer
+### 🚀 Indie Hacker & Product Engineer
 > *"Turning small pains into products."*
 
 ---
@@ -6,8 +6,8 @@
 ## 🧑‍💻 About Me
 
 👋 Hi, I'm Hyeong Geun.  
-I'm a solo developer who takes ideas from zero to launch — design, code, and ship, all on my own.<br>
-I build web-first, get it in front of real users early, and keep what works.
+I'm an indie hacker and product engineer building products from idea to launch.
+I build, ship, and iterate based on real world feedback.
 
 ---
 
@@ -45,13 +45,6 @@ Shipped solo from zero to production — multi-tenant workspaces, e-signature, a
 - **Key Implementation:** Real-time virus scanning for PDF uploads via WebSockets, delivering instant security feedback without blocking the UI.
 
 [![Watch Demo](https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-0d1117?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/watch?v=JXLXOtOum9Q) [![Source Code](https://img.shields.io/badge/Source%20Code-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hgkimdev/Claudocs)
-
----
-
-## 🌱 Currently Working On
-
-- 🌐 Building web-first SaaS with **Next.js** — validate market fit fast, then expand to mobile.
-- 🧭 Exploring next product ideas targeting the global market.
 
 ---
 
