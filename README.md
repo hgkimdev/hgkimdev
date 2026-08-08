@@ -6,7 +6,7 @@
 ## 🧑‍💻 About Me
 
 👋 Hi, I'm Hyeong Geun.  
-I'm an indie hacker and product engineer building products from idea to launch.
+I'm an indie hacker and product engineer building products from idea to launch.<br>
 I build, ship, and iterate based on real world feedback.
 
 ---
