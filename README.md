@@ -56,7 +56,7 @@ A PDF document management SaaS with multi-tenant workspaces and e-signature.
 ---
 
 ## 📊 GitHub Stats
-<img src="https://readme-stats-fast.vercel.app/api?username=hgkimdev&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://streak-stats.demolab.com/?user=hgkimdev&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://readme-stats-fast.vercel.app/api?username=hgkimdev&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hgkimdev&theme=tokyonight&hide_border=true" height="160" />
 
 ---
 
