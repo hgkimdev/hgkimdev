@@ -7,7 +7,7 @@
 
 👋 Hi, I'm Hyeong Geun.  
 I'm a product engineer building products from idea to launch.<br>
-I build, ship, and iterate based on real world feedback.
+I build, ship, and iterate based on real world feedback. 
 
 ---
 
