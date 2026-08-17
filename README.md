@@ -59,5 +59,4 @@ A PDF document management SaaS with multi-tenant workspaces and e-signature.
 <img src="https://readme-stats-fast.vercel.app/api?username=hgkimdev&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hgkimdev&theme=tokyonight&hide_border=true" height="160" />
 
 ---
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hgkim) <img src="https://komarev.com/ghpvc/?username=hgkim7&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+src="https://komarev.com/ghpvc/?username=hgkim7&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
