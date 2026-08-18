@@ -51,7 +51,7 @@ A PDF document management SaaS with multi-tenant workspaces and e-signature.
 
 `Rails` `Hotwire` `SQLite`
 
-[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=JXLXOtOum9Q)
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-1e1e1e?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/watch?v=JXLXOtOum9Q)
 [![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hgkimdev/Claudocs)
 
 ---
