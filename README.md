@@ -44,14 +44,15 @@ A directory of language exchange meetups, organized by city and language pair.
 
 `Next.js` `next-intl` `Tailwind` `Vercel`
 
-[**Visit Site →**](https://langport.vercel.app)
+[![Visit Site](https://img.shields.io/badge/Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://langport.vercel.app)
 
 ### Claudocs
 A PDF document management SaaS with multi-tenant workspaces and e-signature.
 
 `Rails` `Hotwire` `SQLite`
 
-[**Watch Demo**](https://www.youtube.com/watch?v=JXLXOtOum9Q) · [**Source Code**](https://github.com/hgkimdev/Claudocs)
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=JXLXOtOum9Q)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hgkimdev/Claudocs)
 
 ---
 
@@ -59,4 +60,5 @@ A PDF document management SaaS with multi-tenant workspaces and e-signature.
 <img src="https://readme-stats-fast.vercel.app/api?username=hgkimdev&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hgkimdev&theme=tokyonight&hide_border=true" height="160" />
 
 ---
-src="https://komarev.com/ghpvc/?username=hgkim7&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=hgkim7&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
