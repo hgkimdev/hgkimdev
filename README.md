@@ -3,11 +3,11 @@
 
 ---
 
-## 🧑‍💻 About Me
-
 👋 Hi, I'm Hyeong Geun.  
 I'm a product engineer building products from idea to launch.<br>
 I build, ship, and iterate based on real world feedback. 
+
+[![Blog](https://img.shields.io/badge/Blog-1e1e1e?style=for-the-badge&logo=githubpages&logoColor=white)](https://hgkimdev.github.io/)
 
 ---
 
@@ -59,6 +59,3 @@ A PDF document management SaaS with multi-tenant workspaces and e-signature.
 ## 📊 GitHub Stats
 <img src="https://readme-stats-fast.vercel.app/api?username=hgkimdev&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hgkimdev&theme=tokyonight&hide_border=true" height="160" />
 
----
-
-<img src="https://komarev.com/ghpvc/?username=hgkimdev&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
