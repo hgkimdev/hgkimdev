@@ -1,13 +1,11 @@
 ### 🚀 Product Engineer
 > *"Turning small pains into products."*
 
----
-
 👋 Hi, I'm Hyeong Geun.  
 I'm a product engineer building products from idea to launch.<br>
 I build, ship, and iterate based on real world feedback. 
 
-[![Blog](https://img.shields.io/badge/Blog-1e1e1e?style=for-the-badge&logo=githubpages&logoColor=white)](https://hgkimdev.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-1e1e1e?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://hgkimdev.github.io/)
 
 ---
 
