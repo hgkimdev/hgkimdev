@@ -1,9 +1,8 @@
-## 🚀 Product Engineer
-> *"Turning small pains into products."*
+## 🧑‍💻 Product Engineer
 
-👋 Hi, I'm Hyeong Geun.  
-I'm a product engineer building products from idea to launch.<br>
-I build, ship, and iterate based on real world feedback. 
+Hyeong Geun, solo developer in South Korea.<br>
+I build my own products and keep them running:
+frontend, backend, deploy, and everything after.
 
 [![Blog](https://img.shields.io/badge/Blog-1e1e1e?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://hgkimdev.github.io/)
 
@@ -32,25 +31,6 @@ I build, ship, and iterate based on real world feedback.
 [![Ghostty](https://img.shields.io/badge/Ghostty-1e1e1e?style=for-the-badge&logo=ghostty&logoColor=FFFFFF)](https://ghostty.org/) 
 [![Neovim](https://img.shields.io/badge/Neovim-1e1e1e?style=for-the-badge&logo=neovim&logoColor=57A143)](https://neovim.io/) 
 [![Obsidian](https://img.shields.io/badge/Obsidian-1e1e1e?style=for-the-badge&logo=obsidian&logoColor=7C3AED)](https://obsidian.md/) 
-
----
-
-## ✨ Featured Projects
-
-### Langport
-A directory of language exchange meetups, organized by city and language pair.
-
-`Next.js` `next-intl` `Tailwind` `Vercel`
-
-[![Visit Site](https://img.shields.io/badge/Visit%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://langport.vercel.app)
-
-### Claudocs
-A PDF document management SaaS with multi-tenant workspaces and e-signature.
-
-`Rails` `Hotwire` `SQLite`
-
-[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-1e1e1e?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/watch?v=JXLXOtOum9Q)
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hgkimdev/Claudocs)
 
 ---
 
