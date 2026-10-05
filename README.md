@@ -1,7 +1,6 @@
 ## 🧑‍💻 Product Engineer
 
-Hyeong Geun, solo developer in South Korea.<br>
-I ship my own products and keep them running.
+Hyeong Geun, solo developer in South Korea. I ship my own products and keep them running.
 
 [![Blog](https://img.shields.io/badge/Blog-1e1e1e?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://hgkimdev.github.io/)
 
