@@ -1,6 +1,6 @@
-## 🧑‍💻 Product Engineer
+## 🧑‍💻 Hobbyist Developer
 
-Hyeong Geun, I'm a solo developer in South Korea. I ship my own products and keep them running.
+Hyeong Geun, I'm a hobbyist developer in South Korea.
 
 [![Blog](https://img.shields.io/badge/Blog-1e1e1e?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://hgkimdev.github.io/)
 
